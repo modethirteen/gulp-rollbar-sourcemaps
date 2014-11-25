@@ -1,0 +1,24 @@
+{
+  "name": "gulp-rollbar-sourcemaps",
+  "version": "0.0.1",
+  "description": "Rollbar Source Map deploying support for Gulp.js",
+  "main": "index.js",
+  "devDependencies": {
+    "through2": "0.6.3",
+    "url-join": "0.0.1",
+    "needle": "0.7.10",
+    "retry": "0.6.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MindTouch/gulp-rollbar-sourcemaps"
+  },
+  "author": {
+    "name": "James Andrew Vaughn",
+    "email": "andyv@mindtouch.com"
+  },
+  "bugs": {
+    "url": "https://github.com/MindTouch/gulp-rollbar-sourcemaps/issues"
+  },
+  "homepage": "https://github.com/MindTouch/gulp-rollbar-sourcemaps"
+}
