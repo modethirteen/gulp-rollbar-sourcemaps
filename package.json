@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "Rollbar Source Map deploying support for Gulp.js",
   "main": "index.js",
-  "devDependencies": {
+  "dependencies": {
     "through2": "0.6.3",
     "url-join": "0.0.1",
     "needle": "0.7.10",
