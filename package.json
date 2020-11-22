@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/MindTouch/gulp-rollbar-sourcemaps"
+    "url": "https://github.com/modethirteen/gulp-rollbar-sourcemaps"
   },
   "author": {
     "name": "James Andrew Vaughn",
-    "email": "andyv@mindtouch.com"
+    "email": "jamesvaughn@modethirteen.com"
   },
   "bugs": {
-    "url": "https://github.com/MindTouch/gulp-rollbar-sourcemaps/issues"
+    "url": "https://github.com/modethirteen/gulp-rollbar-sourcemaps/issues"
   },
-  "homepage": "https://github.com/MindTouch/gulp-rollbar-sourcemaps"
+  "homepage": "https://github.com/modethirteen/gulp-rollbar-sourcemaps"
 }
