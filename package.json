@@ -1,6 +1,6 @@
 {
   "name": "gulp-rollbar-sourcemaps",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Deploy source maps from Gulp.js tasks to Rollbar for detailed JavaScript stack traces",
   "main": "index.js",
   "dependencies": {
